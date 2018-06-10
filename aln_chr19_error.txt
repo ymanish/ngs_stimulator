@@ -1,0 +1,3 @@
+Total_reads = 100000
+Unaligned_reads = 8181
+Error_rate =8.181
